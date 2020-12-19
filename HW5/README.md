@@ -1,5 +1,4 @@
 
-# Goal 
 
 ## Problem 1:
 Students were asked to construct a linear regression model to predict GFR using the following predictors from the baseg.csv dataset: 
